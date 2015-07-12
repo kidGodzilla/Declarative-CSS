@@ -1,0 +1,480 @@
+/*
+ * DECLARATIVE CSS v0.0.1
+ * James Futhey, 2015
+ */
+/* Flat UI Colors */
+/* Flat UI Colors */
+.bg-turquoise {
+  background: #1abc9c;
+}
+.bg-emerland {
+  background: #2ecc71;
+}
+.bg-peterriver {
+  background: #3498db;
+}
+.bg-amethyst {
+  background: #9b59b6;
+}
+.bg-wetasphalt {
+  background: #34495e;
+}
+.bg-greensea {
+  background: #16a085;
+}
+.bg-nephritis {
+  background: #27ae60;
+}
+.bg-belizehole {
+  background: #2980b9;
+}
+.bg-wisteria {
+  background: #8e44ad;
+}
+.bg-midnightblue {
+  background: #2c3e50;
+}
+.bg-sunflower {
+  background: #f1c40f;
+}
+.bg-carrot {
+  background: #e67e22;
+}
+.bg-alizarin {
+  background: #e74c3c;
+}
+.bg-clouds {
+  background: #ecf0f1;
+}
+.bg-concrete {
+  background: #95a5a6;
+}
+.bg-orange {
+  background: #f39c12;
+}
+.bg-pumpkin {
+  background: #d35400;
+}
+.bg-pomegranate {
+  background: #c0392b;
+}
+.bg-silver {
+  background: #bdc3c7;
+}
+.bg-asbestos {
+  background: #7f8c8d;
+}
+.bg-white {
+  background: #fff;
+}
+.bg-black {
+  background: #000;
+}
+.text-turquoise {
+  color: #1abc9c;
+}
+.text-emerland {
+  color: #2ecc71;
+}
+.text-peterriver {
+  color: #3498db;
+}
+.text-amethyst {
+  color: #9b59b6;
+}
+.text-wetasphalt {
+  color: #34495e;
+}
+.text-greensea {
+  color: #16a085;
+}
+.text-nephritis {
+  color: #27ae60;
+}
+.text-belizehole {
+  color: #2980b9;
+}
+.text-wisteria {
+  color: #8e44ad;
+}
+.text-midnightblue {
+  color: #2c3e50;
+}
+.text-sunflower {
+  color: #f1c40f;
+}
+.text-carrot {
+  color: #e67e22;
+}
+.text-alizarin {
+  color: #e74c3c;
+}
+.text-clouds {
+  color: #ecf0f1;
+}
+.text-concrete {
+  color: #95a5a6;
+}
+.text-orange {
+  color: #f39c12;
+}
+.text-pumpkin {
+  color: #d35400;
+}
+.text-pomegranate {
+  color: #c0392b;
+}
+.text-silver {
+  color: #bdc3c7;
+}
+.text-asbestos {
+  color: #7f8c8d;
+}
+.text-white {
+  color: #fff;
+}
+.text-black {
+  color: #000;
+}
+.bg-000 {
+  background: #000;
+}
+.bg-111 {
+  background: #111;
+}
+.bg-222 {
+  background: #222;
+}
+.bg-333 {
+  background: #333;
+}
+.bg-444 {
+  background: #444;
+}
+.bg-555 {
+  background: #555;
+}
+.bg-666 {
+  background: #666;
+}
+.bg-777 {
+  background: #777;
+}
+.bg-888 {
+  background: #888;
+}
+.bg-999 {
+  background: #999;
+}
+.bg-aaa {
+  background: #aaa;
+}
+.bg-bbb {
+  background: #bbb;
+}
+.bg-ccc {
+  background: #ccc;
+}
+.bg-ddd {
+  background: #ddd;
+}
+.bg-eee {
+  background: #eee;
+}
+.bg-fff {
+  background: #fff;
+}
+.text-000 {
+  color: #000;
+}
+.text-111 {
+  color: #111;
+}
+.text-222 {
+  color: #222;
+}
+.text-333 {
+  color: #333;
+}
+.text-444 {
+  color: #444;
+}
+.text-555 {
+  color: #555;
+}
+.text-666 {
+  color: #666;
+}
+.text-777 {
+  color: #777;
+}
+.text-888 {
+  color: #888;
+}
+.text-999 {
+  color: #999;
+}
+.text-aaa {
+  color: #aaa;
+}
+.text-bbb {
+  color: #bbb;
+}
+.text-ccc {
+  color: #ccc;
+}
+.text-ddd {
+  color: #ddd;
+}
+.text-eee {
+  color: #eee;
+}
+.text-fff {
+  color: #fff;
+}
+.Bg-turquoise {
+  background: #1abc9c !important;
+}
+.Bg-emerland {
+  background: #2ecc71 !important;
+}
+.Bg-peterriver {
+  background: #3498db !important;
+}
+.Bg-amethyst {
+  background: #9b59b6 !important;
+}
+.Bg-wetasphalt {
+  background: #34495e !important;
+}
+.Bg-greensea {
+  background: #16a085 !important;
+}
+.Bg-nephritis {
+  background: #27ae60 !important;
+}
+.Bg-belizehole {
+  background: #2980b9 !important;
+}
+.Bg-wisteria {
+  background: #8e44ad !important;
+}
+.Bg-midnightblue {
+  background: #2c3e50 !important;
+}
+.Bg-sunflower {
+  background: #f1c40f !important;
+}
+.Bg-carrot {
+  background: #e67e22 !important;
+}
+.Bg-alizarin {
+  background: #e74c3c !important;
+}
+.Bg-clouds {
+  background: #ecf0f1 !important;
+}
+.Bg-concrete {
+  background: #95a5a6 !important;
+}
+.Bg-orange {
+  background: #f39c12 !important;
+}
+.Bg-pumpkin {
+  background: #d35400 !important;
+}
+.Bg-pomegranate {
+  background: #c0392b !important;
+}
+.Bg-silver {
+  background: #bdc3c7 !important;
+}
+.Bg-asbestos {
+  background: #7f8c8d !important;
+}
+.Bg-white {
+  background: #fff !important;
+}
+.Bg-black {
+  background: #000 !important;
+}
+.Text-turquoise {
+  color: #1abc9c !important;
+}
+.Text-emerland {
+  color: #2ecc71 !important;
+}
+.Text-peterriver {
+  color: #3498db !important;
+}
+.Text-amethyst {
+  color: #9b59b6 !important;
+}
+.Text-wetasphalt {
+  color: #34495e !important;
+}
+.Text-greensea {
+  color: #16a085 !important;
+}
+.Text-nephritis {
+  color: #27ae60 !important;
+}
+.Text-belizehole {
+  color: #2980b9 !important;
+}
+.Text-wisteria {
+  color: #8e44ad !important;
+}
+.Text-midnightblue {
+  color: #2c3e50 !important;
+}
+.Text-sunflower {
+  color: #f1c40f !important;
+}
+.Text-carrot {
+  color: #e67e22 !important;
+}
+.Text-alizarin {
+  color: #e74c3c !important;
+}
+.Text-clouds {
+  color: #ecf0f1 !important;
+}
+.Text-concrete {
+  color: #95a5a6 !important;
+}
+.Text-orange {
+  color: #f39c12 !important;
+}
+.Text-pumpkin {
+  color: #d35400 !important;
+}
+.Text-pomegranate {
+  color: #c0392b !important;
+}
+.Text-silver {
+  color: #bdc3c7 !important;
+}
+.Text-asbestos {
+  color: #7f8c8d !important;
+}
+.Text-white {
+  color: #fff !important;
+}
+.Text-black {
+  color: #000 !important;
+}
+.Bg-000 {
+  background: #000 !important;
+}
+.Bg-111 {
+  background: #111 !important;
+}
+.Bg-222 {
+  background: #222 !important;
+}
+.Bg-333 {
+  background: #333 !important;
+}
+.Bg-444 {
+  background: #444 !important;
+}
+.Bg-555 {
+  background: #555 !important;
+}
+.Bg-666 {
+  background: #666 !important;
+}
+.Bg-777 {
+  background: #777 !important;
+}
+.Bg-888 {
+  background: #888 !important;
+}
+.Bg-999 {
+  background: #999 !important;
+}
+.Bg-aaa {
+  background: #aaa !important;
+}
+.Bg-bbb {
+  background: #bbb !important;
+}
+.Bg-ccc {
+  background: #ccc !important;
+}
+.Bg-ddd {
+  background: #ddd !important;
+}
+.Bg-eee {
+  background: #eee !important;
+}
+.Bg-fff {
+  background: #fff !important;
+}
+.Text-000 {
+  color: #000 !important;
+}
+.Text-111 {
+  color: #111 !important;
+}
+.Text-222 {
+  color: #222 !important;
+}
+.Text-333 {
+  color: #333 !important;
+}
+.Text-444 {
+  color: #444 !important;
+}
+.Text-555 {
+  color: #555 !important;
+}
+.Text-666 {
+  color: #666 !important;
+}
+.Text-777 {
+  color: #777 !important;
+}
+.Text-888 {
+  color: #888 !important;
+}
+.Text-999 {
+  color: #999 !important;
+}
+.Text-aaa {
+  color: #aaa !important;
+}
+.Text-bbb {
+  color: #bbb !important;
+}
+.Text-ccc {
+  color: #ccc !important;
+}
+.Text-ddd {
+  color: #ddd !important;
+}
+.Text-eee {
+  color: #eee !important;
+}
+.Text-fff {
+  color: #fff !important;
+}
+.blue-gradient-background {
+  background: #2989d8;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #2989d8 0%, #2885d1 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #2989d8), color-stop(100%, #2885d1));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(-45deg, #2989d8 0%, #2885d1 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(-45deg, #2989d8 0%, #2885d1 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(-45deg, #2989d8 0%, #2885d1 100%);
+  /* IE10+ */
+  background: linear-gradient(135deg, #2989d8 0%, #2885d1 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2989d8', endColorstr='#2885d1', GradientType=1);
+  /* IE6-9 fallback on horizontal gradient */
+}

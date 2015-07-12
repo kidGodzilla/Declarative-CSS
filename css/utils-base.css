@@ -1,0 +1,344 @@
+/*
+ * DECLARATIVE CSS v0.0.1
+ * James Futhey, 2015
+ */
+/* Current Things */
+.clear-none {
+  clear: none;
+}
+.clear-left {
+  clear: left;
+}
+.clear-right {
+  clear: right;
+}
+.clear-both {
+  clear: both;
+}
+.Clear-none {
+  clear: none;
+}
+.Clear-left {
+  clear: left;
+}
+.Clear-right {
+  clear: right;
+}
+.Clear-both {
+  clear: both;
+}
+.float-left {
+  float: left;
+  display: inline;
+}
+.float-right {
+  float: right;
+  display: inline;
+}
+.float-none {
+  float: none;
+}
+.Float-left {
+  float: left;
+  display: inline;
+}
+.Float-right {
+  float: right;
+  display: inline;
+}
+.Float-none {
+  float: none;
+}
+.hidden {
+  display: none;
+}
+.invisible {
+  visibility: hidden;
+}
+.Hidden {
+  display: none;
+}
+.Invisible {
+  visibility: hidden;
+}
+/* -xs */
+@media (max-width: 768px) {
+  .clear-none-xs {
+    clear: none;
+  }
+  .clear-left-xs {
+    clear: left;
+  }
+  .clear-right-xs {
+    clear: right;
+  }
+  .clear-both-xs {
+    clear: both;
+  }
+  .Clear-none-xs {
+    clear: none;
+  }
+  .Clear-left-xs {
+    clear: left;
+  }
+  .Clear-right-xs {
+    clear: right;
+  }
+  .Clear-both-xs {
+    clear: both;
+  }
+  .float-left-xs {
+    float: left;
+    display: inline;
+  }
+  .float-right-xs {
+    float: right;
+    display: inline;
+  }
+  .float-none-xs {
+    float: none;
+  }
+  .Float-left-xs {
+    float: left;
+    display: inline;
+  }
+  .Float-right-xs {
+    float: right;
+    display: inline;
+  }
+  .Float-none-xs {
+    float: none;
+  }
+  .hidden-xs {
+    display: none;
+  }
+  .invisible-xs {
+    visibility: hidden;
+  }
+  .Hidden-xs {
+    display: none;
+  }
+  .Invisible-xs {
+    visibility: hidden;
+  }
+}
+/* -sm */
+@media (min-width: 768px) and (max-width: 992px) {
+  .clear-none-sm {
+    clear: none;
+  }
+  .clear-left-sm {
+    clear: left;
+  }
+  .clear-right-sm {
+    clear: right;
+  }
+  .clear-both-sm {
+    clear: both;
+  }
+  .Clear-none-sm {
+    clear: none;
+  }
+  .Clear-left-sm {
+    clear: left;
+  }
+  .Clear-right-sm {
+    clear: right;
+  }
+  .Clear-both-sm {
+    clear: both;
+  }
+  .float-left-sm {
+    float: left;
+    display: inline;
+  }
+  .float-right-sm {
+    float: right;
+    display: inline;
+  }
+  .float-none-sm {
+    float: none;
+  }
+  .Float-left-sm {
+    float: left;
+    display: inline;
+  }
+  .Float-right-sm {
+    float: right;
+    display: inline;
+  }
+  .Float-none-sm {
+    float: none;
+  }
+  .hidden-sm {
+    display: none;
+  }
+  .invisible-sm {
+    visibility: hidden;
+  }
+  .Hidden-sm {
+    display: none;
+  }
+  .Invisible-sm {
+    visibility: hidden;
+  }
+}
+/* -md */
+@media (min-width: 992px) {
+  .clear-none-md {
+    clear: none;
+  }
+  .clear-left-md {
+    clear: left;
+  }
+  .clear-right-md {
+    clear: right;
+  }
+  .clear-both-md {
+    clear: both;
+  }
+  .Clear-none-md {
+    clear: none;
+  }
+  .Clear-left-md {
+    clear: left;
+  }
+  .Clear-right-md {
+    clear: right;
+  }
+  .Clear-both-md {
+    clear: both;
+  }
+  .float-left-md {
+    float: left;
+    display: inline;
+  }
+  .float-right-md {
+    float: right;
+    display: inline;
+  }
+  .float-none-md {
+    float: none;
+  }
+  .Float-left-md {
+    float: left;
+    display: inline;
+  }
+  .Float-right-md {
+    float: right;
+    display: inline;
+  }
+  .Float-none-md {
+    float: none;
+  }
+  .hidden-md {
+    display: none;
+  }
+  .invisible-md {
+    visibility: hidden;
+  }
+  .Hidden-md {
+    display: none;
+  }
+  .Invisible-md {
+    visibility: hidden;
+  }
+}
+/* -lg */
+@media (min-width: 1200px) {
+  .clear-none-lg {
+    clear: none;
+  }
+  .clear-left-lg {
+    clear: left;
+  }
+  .clear-right-lg {
+    clear: right;
+  }
+  .clear-both-lg {
+    clear: both;
+  }
+  .Clear-none-lg {
+    clear: none;
+  }
+  .Clear-left-lg {
+    clear: left;
+  }
+  .Clear-right-lg {
+    clear: right;
+  }
+  .Clear-both-lg {
+    clear: both;
+  }
+  .float-left-lg {
+    float: left;
+    display: inline;
+  }
+  .float-right-lg {
+    float: right;
+    display: inline;
+  }
+  .float-none-lg {
+    float: none;
+  }
+  .Float-left-lg {
+    float: left;
+    display: inline;
+  }
+  .Float-right-lg {
+    float: right;
+    display: inline;
+  }
+  .Float-none-lg {
+    float: none;
+  }
+  .hidden-lg {
+    display: none;
+  }
+  .invisible-lg {
+    visibility: hidden;
+  }
+  .Hidden-lg {
+    display: none;
+  }
+  .Invisible-lg {
+    visibility: hidden;
+  }
+}
+/* Future Things */
+.bg-cover {
+  background-size: cover;
+}
+.bg-contain {
+  background-size: contain;
+}
+.bg-auto {
+  background-size: auto;
+}
+img {
+  max-width: 100%;
+}
+.va-baseline {
+  vertical-align: baseline;
+}
+.va-sub {
+  vertical-align: sub;
+}
+.va-super {
+  vertical-align: super;
+}
+.va-txt-top {
+  vertical-align: text-top;
+}
+.va-txt-bottom {
+  vertical-align: text-bottom;
+}
+.va-middle {
+  vertical-align: middle;
+}
+.va-top {
+  vertical-align: top;
+}
+.va-bottom {
+  vertical-align: bottom;
+}

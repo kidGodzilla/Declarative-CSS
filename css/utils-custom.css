@@ -1,0 +1,33 @@
+/*
+ * DECLARATIVE CSS v0.0.1
+ * James Futhey, 2015
+ */
+ul.ul-inline li {
+  display: inline-block;
+}
+.pull-down {
+  display: table-cell;
+  verticclal-align: bottom;
+}
+.pull-middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+.list-style-type-none {
+  list-style-type: none;
+}
+.margin-0-auto {
+  margin: 0 auto;
+}
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+.no-background {
+  background: transparent !important;
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
