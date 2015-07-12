@@ -1,0 +1,1842 @@
+/*
+ * DECLARATIVE CSS v0.0.1
+ * James Futhey, 2015
+ */
+/* Responsive Flat UI Colors */
+/* Flat UI Colors */
+/* -xs */
+@media (max-width: 768px) {
+  .bg-turquoise-xs {
+    background: #1abc9c;
+  }
+  .bg-emerland-xs {
+    background: #2ecc71;
+  }
+  .bg-peterriver-xs {
+    background: #3498db;
+  }
+  .bg-amethyst-xs {
+    background: #9b59b6;
+  }
+  .bg-wetasphalt-xs {
+    background: #34495e;
+  }
+  .bg-greensea-xs {
+    background: #16a085;
+  }
+  .bg-nephritis-xs {
+    background: #27ae60;
+  }
+  .bg-belizehole-xs {
+    background: #2980b9;
+  }
+  .bg-wisteria-xs {
+    background: #8e44ad;
+  }
+  .bg-midnightblue-xs {
+    background: #2c3e50;
+  }
+  .bg-sunflower-xs {
+    background: #f1c40f;
+  }
+  .bg-carrot-xs {
+    background: #e67e22;
+  }
+  .bg-alizarin-xs {
+    background: #e74c3c;
+  }
+  .bg-clouds-xs {
+    background: #ecf0f1;
+  }
+  .bg-concrete-xs {
+    background: #95a5a6;
+  }
+  .bg-orange-xs {
+    background: #f39c12;
+  }
+  .bg-pumpkin-xs {
+    background: #d35400;
+  }
+  .bg-pomegranate-xs {
+    background: #c0392b;
+  }
+  .bg-silver-xs {
+    background: #bdc3c7;
+  }
+  .bg-asbestos-xs {
+    background: #7f8c8d;
+  }
+  .bg-white-xs {
+    background: #fff;
+  }
+  .bg-black-xs {
+    background: #000;
+  }
+  .text-turquoise-xs {
+    color: #1abc9c;
+  }
+  .text-emerland-xs {
+    color: #2ecc71;
+  }
+  .text-peterriver-xs {
+    color: #3498db;
+  }
+  .text-amethyst-xs {
+    color: #9b59b6;
+  }
+  .text-wetasphalt-xs {
+    color: #34495e;
+  }
+  .text-greensea-xs {
+    color: #16a085;
+  }
+  .text-nephritis-xs {
+    color: #27ae60;
+  }
+  .text-belizehole-xs {
+    color: #2980b9;
+  }
+  .text-wisteria-xs {
+    color: #8e44ad;
+  }
+  .text-midnightblue-xs {
+    color: #2c3e50;
+  }
+  .text-sunflower-xs {
+    color: #f1c40f;
+  }
+  .text-carrot-xs {
+    color: #e67e22;
+  }
+  .text-alizarin-xs {
+    color: #e74c3c;
+  }
+  .text-clouds-xs {
+    color: #ecf0f1;
+  }
+  .text-concrete-xs {
+    color: #95a5a6;
+  }
+  .text-orange-xs {
+    color: #f39c12;
+  }
+  .text-pumpkin-xs {
+    color: #d35400;
+  }
+  .text-pomegranate-xs {
+    color: #c0392b;
+  }
+  .text-silver-xs {
+    color: #bdc3c7;
+  }
+  .text-asbestos-xs {
+    color: #7f8c8d;
+  }
+  .text-white-xs {
+    color: #fff;
+  }
+  .text-black-xs {
+    color: #000;
+  }
+  .bg-000-xs {
+    background: #000;
+  }
+  .bg-111-xs {
+    background: #111;
+  }
+  .bg-222-xs {
+    background: #222;
+  }
+  .bg-333-xs {
+    background: #333;
+  }
+  .bg-444-xs {
+    background: #444;
+  }
+  .bg-555-xs {
+    background: #555;
+  }
+  .bg-666-xs {
+    background: #666;
+  }
+  .bg-777-xs {
+    background: #777;
+  }
+  .bg-888-xs {
+    background: #888;
+  }
+  .bg-999-xs {
+    background: #999;
+  }
+  .bg-aaa-xs {
+    background: #aaa;
+  }
+  .bg-bbb-xs {
+    background: #bbb;
+  }
+  .bg-ccc-xs {
+    background: #ccc;
+  }
+  .bg-ddd-xs {
+    background: #ddd;
+  }
+  .bg-eee-xs {
+    background: #eee;
+  }
+  .bg-fff-xs {
+    background: #fff;
+  }
+  .text-000-xs {
+    color: #000;
+  }
+  .text-111-xs {
+    color: #111;
+  }
+  .text-222-xs {
+    color: #222;
+  }
+  .text-333-xs {
+    color: #333;
+  }
+  .text-444-xs {
+    color: #444;
+  }
+  .text-555-xs {
+    color: #555;
+  }
+  .text-666-xs {
+    color: #666;
+  }
+  .text-777-xs {
+    color: #777;
+  }
+  .text-888-xs {
+    color: #888;
+  }
+  .text-999-xs {
+    color: #999;
+  }
+  .text-aaa-xs {
+    color: #aaa;
+  }
+  .text-bbb-xs {
+    color: #bbb;
+  }
+  .text-ccc-xs {
+    color: #ccc;
+  }
+  .text-ddd-xs {
+    color: #ddd;
+  }
+  .text-eee-xs {
+    color: #eee;
+  }
+  .text-fff-xs {
+    color: #fff;
+  }
+  .Bg-turquoise-xs {
+    background: #1abc9c !important;
+  }
+  .Bg-emerland-xs {
+    background: #2ecc71 !important;
+  }
+  .Bg-peterriver-xs {
+    background: #3498db !important;
+  }
+  .Bg-amethyst-xs {
+    background: #9b59b6 !important;
+  }
+  .Bg-wetasphalt-xs {
+    background: #34495e !important;
+  }
+  .Bg-greensea-xs {
+    background: #16a085 !important;
+  }
+  .Bg-nephritis-xs {
+    background: #27ae60 !important;
+  }
+  .Bg-belizehole-xs {
+    background: #2980b9 !important;
+  }
+  .Bg-wisteria-xs {
+    background: #8e44ad !important;
+  }
+  .Bg-midnightblue-xs {
+    background: #2c3e50 !important;
+  }
+  .Bg-sunflower-xs {
+    background: #f1c40f !important;
+  }
+  .Bg-carrot-xs {
+    background: #e67e22 !important;
+  }
+  .Bg-alizarin-xs {
+    background: #e74c3c !important;
+  }
+  .Bg-clouds-xs {
+    background: #ecf0f1 !important;
+  }
+  .Bg-concrete-xs {
+    background: #95a5a6 !important;
+  }
+  .Bg-orange-xs {
+    background: #f39c12 !important;
+  }
+  .Bg-pumpkin-xs {
+    background: #d35400 !important;
+  }
+  .Bg-pomegranate-xs {
+    background: #c0392b !important;
+  }
+  .Bg-silver-xs {
+    background: #bdc3c7 !important;
+  }
+  .Bg-asbestos-xs {
+    background: #7f8c8d !important;
+  }
+  .Bg-white-xs {
+    background: #fff !important;
+  }
+  .Bg-black-xs {
+    background: #000 !important;
+  }
+  .Text-turquoise-xs {
+    color: #1abc9c !important;
+  }
+  .Text-emerland-xs {
+    color: #2ecc71 !important;
+  }
+  .Text-peterriver-xs {
+    color: #3498db !important;
+  }
+  .Text-amethyst-xs {
+    color: #9b59b6 !important;
+  }
+  .Text-wetasphalt-xs {
+    color: #34495e !important;
+  }
+  .Text-greensea-xs {
+    color: #16a085 !important;
+  }
+  .Text-nephritis-xs {
+    color: #27ae60 !important;
+  }
+  .Text-belizehole-xs {
+    color: #2980b9 !important;
+  }
+  .Text-wisteria-xs {
+    color: #8e44ad !important;
+  }
+  .Text-midnightblue-xs {
+    color: #2c3e50 !important;
+  }
+  .Text-sunflower-xs {
+    color: #f1c40f !important;
+  }
+  .Text-carrot-xs {
+    color: #e67e22 !important;
+  }
+  .Text-alizarin-xs {
+    color: #e74c3c !important;
+  }
+  .Text-clouds-xs {
+    color: #ecf0f1 !important;
+  }
+  .Text-concrete-xs {
+    color: #95a5a6 !important;
+  }
+  .Text-orange-xs {
+    color: #f39c12 !important;
+  }
+  .Text-pumpkin-xs {
+    color: #d35400 !important;
+  }
+  .Text-pomegranate-xs {
+    color: #c0392b !important;
+  }
+  .Text-silver-xs {
+    color: #bdc3c7 !important;
+  }
+  .Text-asbestos-xs {
+    color: #7f8c8d !important;
+  }
+  .Text-white-xs {
+    color: #fff !important;
+  }
+  .Text-black-xs {
+    color: #000 !important;
+  }
+  .Bg-000-xs {
+    background: #000 !important;
+  }
+  .Bg-111-xs {
+    background: #111 !important;
+  }
+  .Bg-222-xs {
+    background: #222 !important;
+  }
+  .Bg-333-xs {
+    background: #333 !important;
+  }
+  .Bg-444-xs {
+    background: #444 !important;
+  }
+  .Bg-555-xs {
+    background: #555 !important;
+  }
+  .Bg-666-xs {
+    background: #666 !important;
+  }
+  .Bg-777-xs {
+    background: #777 !important;
+  }
+  .Bg-888-xs {
+    background: #888 !important;
+  }
+  .Bg-999-xs {
+    background: #999 !important;
+  }
+  .Bg-aaa-xs {
+    background: #aaa !important;
+  }
+  .Bg-bbb-xs {
+    background: #bbb !important;
+  }
+  .Bg-ccc-xs {
+    background: #ccc !important;
+  }
+  .Bg-ddd-xs {
+    background: #ddd !important;
+  }
+  .Bg-eee-xs {
+    background: #eee !important;
+  }
+  .Bg-fff-xs {
+    background: #fff !important;
+  }
+  .Text-000-xs {
+    color: #000 !important;
+  }
+  .Text-111-xs {
+    color: #111 !important;
+  }
+  .Text-222-xs {
+    color: #222 !important;
+  }
+  .Text-333-xs {
+    color: #333 !important;
+  }
+  .Text-444-xs {
+    color: #444 !important;
+  }
+  .Text-555-xs {
+    color: #555 !important;
+  }
+  .Text-666-xs {
+    color: #666 !important;
+  }
+  .Text-777-xs {
+    color: #777 !important;
+  }
+  .Text-888-xs {
+    color: #888 !important;
+  }
+  .Text-999-xs {
+    color: #999 !important;
+  }
+  .Text-aaa-xs {
+    color: #aaa !important;
+  }
+  .Text-bbb-xs {
+    color: #bbb !important;
+  }
+  .Text-ccc-xs {
+    color: #ccc !important;
+  }
+  .Text-ddd-xs {
+    color: #ddd !important;
+  }
+  .Text-eee-xs {
+    color: #eee !important;
+  }
+  .Text-fff-xs {
+    color: #fff !important;
+  }
+}
+/* -sm */
+@media (min-width: 768px) and (max-width: 992px) {
+  .bg-turquoise-sm {
+    background: #1abc9c;
+  }
+  .bg-emerland-sm {
+    background: #2ecc71;
+  }
+  .bg-peterriver-sm {
+    background: #3498db;
+  }
+  .bg-amethyst-sm {
+    background: #9b59b6;
+  }
+  .bg-wetasphalt-sm {
+    background: #34495e;
+  }
+  .bg-greensea-sm {
+    background: #16a085;
+  }
+  .bg-nephritis-sm {
+    background: #27ae60;
+  }
+  .bg-belizehole-sm {
+    background: #2980b9;
+  }
+  .bg-wisteria-sm {
+    background: #8e44ad;
+  }
+  .bg-midnightblue-sm {
+    background: #2c3e50;
+  }
+  .bg-sunflower-sm {
+    background: #f1c40f;
+  }
+  .bg-carrot-sm {
+    background: #e67e22;
+  }
+  .bg-alizarin-sm {
+    background: #e74c3c;
+  }
+  .bg-clouds-sm {
+    background: #ecf0f1;
+  }
+  .bg-concrete-sm {
+    background: #95a5a6;
+  }
+  .bg-orange-sm {
+    background: #f39c12;
+  }
+  .bg-pumpkin-sm {
+    background: #d35400;
+  }
+  .bg-pomegranate-sm {
+    background: #c0392b;
+  }
+  .bg-silver-sm {
+    background: #bdc3c7;
+  }
+  .bg-asbestos-sm {
+    background: #7f8c8d;
+  }
+  .bg-white-sm {
+    background: #fff;
+  }
+  .bg-black-sm {
+    background: #000;
+  }
+  .text-turquoise-sm {
+    color: #1abc9c;
+  }
+  .text-emerland-sm {
+    color: #2ecc71;
+  }
+  .text-peterriver-sm {
+    color: #3498db;
+  }
+  .text-amethyst-sm {
+    color: #9b59b6;
+  }
+  .text-wetasphalt-sm {
+    color: #34495e;
+  }
+  .text-greensea-sm {
+    color: #16a085;
+  }
+  .text-nephritis-sm {
+    color: #27ae60;
+  }
+  .text-belizehole-sm {
+    color: #2980b9;
+  }
+  .text-wisteria-sm {
+    color: #8e44ad;
+  }
+  .text-midnightblue-sm {
+    color: #2c3e50;
+  }
+  .text-sunflower-sm {
+    color: #f1c40f;
+  }
+  .text-carrot-sm {
+    color: #e67e22;
+  }
+  .text-alizarin-sm {
+    color: #e74c3c;
+  }
+  .text-clouds-sm {
+    color: #ecf0f1;
+  }
+  .text-concrete-sm {
+    color: #95a5a6;
+  }
+  .text-orange-sm {
+    color: #f39c12;
+  }
+  .text-pumpkin-sm {
+    color: #d35400;
+  }
+  .text-pomegranate-sm {
+    color: #c0392b;
+  }
+  .text-silver-sm {
+    color: #bdc3c7;
+  }
+  .text-asbestos-sm {
+    color: #7f8c8d;
+  }
+  .text-white-sm {
+    color: #fff;
+  }
+  .text-black-sm {
+    color: #000;
+  }
+  .bg-000-sm {
+    background: #000;
+  }
+  .bg-111-sm {
+    background: #111;
+  }
+  .bg-222-sm {
+    background: #222;
+  }
+  .bg-333-sm {
+    background: #333;
+  }
+  .bg-444-sm {
+    background: #444;
+  }
+  .bg-555-sm {
+    background: #555;
+  }
+  .bg-666-sm {
+    background: #666;
+  }
+  .bg-777-sm {
+    background: #777;
+  }
+  .bg-888-sm {
+    background: #888;
+  }
+  .bg-999-sm {
+    background: #999;
+  }
+  .bg-aaa-sm {
+    background: #aaa;
+  }
+  .bg-bbb-sm {
+    background: #bbb;
+  }
+  .bg-ccc-sm {
+    background: #ccc;
+  }
+  .bg-ddd-sm {
+    background: #ddd;
+  }
+  .bg-eee-sm {
+    background: #eee;
+  }
+  .bg-fff-sm {
+    background: #fff;
+  }
+  .text-000-sm {
+    color: #000;
+  }
+  .text-111-sm {
+    color: #111;
+  }
+  .text-222-sm {
+    color: #222;
+  }
+  .text-333-sm {
+    color: #333;
+  }
+  .text-444-sm {
+    color: #444;
+  }
+  .text-555-sm {
+    color: #555;
+  }
+  .text-666-sm {
+    color: #666;
+  }
+  .text-777-sm {
+    color: #777;
+  }
+  .text-888-sm {
+    color: #888;
+  }
+  .text-999-sm {
+    color: #999;
+  }
+  .text-aaa-sm {
+    color: #aaa;
+  }
+  .text-bbb-sm {
+    color: #bbb;
+  }
+  .text-ccc-sm {
+    color: #ccc;
+  }
+  .text-ddd-sm {
+    color: #ddd;
+  }
+  .text-eee-sm {
+    color: #eee;
+  }
+  .text-fff-sm {
+    color: #fff;
+  }
+  .Bg-turquoise-sm {
+    background: #1abc9c !important;
+  }
+  .Bg-emerland-sm {
+    background: #2ecc71 !important;
+  }
+  .Bg-peterriver-sm {
+    background: #3498db !important;
+  }
+  .Bg-amethyst-sm {
+    background: #9b59b6 !important;
+  }
+  .Bg-wetasphalt-sm {
+    background: #34495e !important;
+  }
+  .Bg-greensea-sm {
+    background: #16a085 !important;
+  }
+  .Bg-nephritis-sm {
+    background: #27ae60 !important;
+  }
+  .Bg-belizehole-sm {
+    background: #2980b9 !important;
+  }
+  .Bg-wisteria-sm {
+    background: #8e44ad !important;
+  }
+  .Bg-midnightblue-sm {
+    background: #2c3e50 !important;
+  }
+  .Bg-sunflower-sm {
+    background: #f1c40f !important;
+  }
+  .Bg-carrot-sm {
+    background: #e67e22 !important;
+  }
+  .Bg-alizarin-sm {
+    background: #e74c3c !important;
+  }
+  .Bg-clouds-sm {
+    background: #ecf0f1 !important;
+  }
+  .Bg-concrete-sm {
+    background: #95a5a6 !important;
+  }
+  .Bg-orange-sm {
+    background: #f39c12 !important;
+  }
+  .Bg-pumpkin-sm {
+    background: #d35400 !important;
+  }
+  .Bg-pomegranate-sm {
+    background: #c0392b !important;
+  }
+  .Bg-silver-sm {
+    background: #bdc3c7 !important;
+  }
+  .Bg-asbestos-sm {
+    background: #7f8c8d !important;
+  }
+  .Bg-white-sm {
+    background: #fff !important;
+  }
+  .Bg-black-sm {
+    background: #000 !important;
+  }
+  .Text-turquoise-sm {
+    color: #1abc9c !important;
+  }
+  .Text-emerland-sm {
+    color: #2ecc71 !important;
+  }
+  .Text-peterriver-sm {
+    color: #3498db !important;
+  }
+  .Text-amethyst-sm {
+    color: #9b59b6 !important;
+  }
+  .Text-wetasphalt-sm {
+    color: #34495e !important;
+  }
+  .Text-greensea-sm {
+    color: #16a085 !important;
+  }
+  .Text-nephritis-sm {
+    color: #27ae60 !important;
+  }
+  .Text-belizehole-sm {
+    color: #2980b9 !important;
+  }
+  .Text-wisteria-sm {
+    color: #8e44ad !important;
+  }
+  .Text-midnightblue-sm {
+    color: #2c3e50 !important;
+  }
+  .Text-sunflower-sm {
+    color: #f1c40f !important;
+  }
+  .Text-carrot-sm {
+    color: #e67e22 !important;
+  }
+  .Text-alizarin-sm {
+    color: #e74c3c !important;
+  }
+  .Text-clouds-sm {
+    color: #ecf0f1 !important;
+  }
+  .Text-concrete-sm {
+    color: #95a5a6 !important;
+  }
+  .Text-orange-sm {
+    color: #f39c12 !important;
+  }
+  .Text-pumpkin-sm {
+    color: #d35400 !important;
+  }
+  .Text-pomegranate-sm {
+    color: #c0392b !important;
+  }
+  .Text-silver-sm {
+    color: #bdc3c7 !important;
+  }
+  .Text-asbestos-sm {
+    color: #7f8c8d !important;
+  }
+  .Text-white-sm {
+    color: #fff !important;
+  }
+  .Text-black-sm {
+    color: #000 !important;
+  }
+  .Bg-000-sm {
+    background: #000 !important;
+  }
+  .Bg-111-sm {
+    background: #111 !important;
+  }
+  .Bg-222-sm {
+    background: #222 !important;
+  }
+  .Bg-333-sm {
+    background: #333 !important;
+  }
+  .Bg-444-sm {
+    background: #444 !important;
+  }
+  .Bg-555-sm {
+    background: #555 !important;
+  }
+  .Bg-666-sm {
+    background: #666 !important;
+  }
+  .Bg-777-sm {
+    background: #777 !important;
+  }
+  .Bg-888-sm {
+    background: #888 !important;
+  }
+  .Bg-999-sm {
+    background: #999 !important;
+  }
+  .Bg-aaa-sm {
+    background: #aaa !important;
+  }
+  .Bg-bbb-sm {
+    background: #bbb !important;
+  }
+  .Bg-ccc-sm {
+    background: #ccc !important;
+  }
+  .Bg-ddd-sm {
+    background: #ddd !important;
+  }
+  .Bg-eee-sm {
+    background: #eee !important;
+  }
+  .Bg-fff-sm {
+    background: #fff !important;
+  }
+  .Text-000-sm {
+    color: #000 !important;
+  }
+  .Text-111-sm {
+    color: #111 !important;
+  }
+  .Text-222-sm {
+    color: #222 !important;
+  }
+  .Text-333-sm {
+    color: #333 !important;
+  }
+  .Text-444-sm {
+    color: #444 !important;
+  }
+  .Text-555-sm {
+    color: #555 !important;
+  }
+  .Text-666-sm {
+    color: #666 !important;
+  }
+  .Text-777-sm {
+    color: #777 !important;
+  }
+  .Text-888-sm {
+    color: #888 !important;
+  }
+  .Text-999-sm {
+    color: #999 !important;
+  }
+  .Text-aaa-sm {
+    color: #aaa !important;
+  }
+  .Text-bbb-sm {
+    color: #bbb !important;
+  }
+  .Text-ccc-sm {
+    color: #ccc !important;
+  }
+  .Text-ddd-sm {
+    color: #ddd !important;
+  }
+  .Text-eee-sm {
+    color: #eee !important;
+  }
+  .Text-fff-sm {
+    color: #fff !important;
+  }
+}
+/* -md */
+@media (min-width: 992px) {
+  .bg-turquoise-md {
+    background: #1abc9c;
+  }
+  .bg-emerland-md {
+    background: #2ecc71;
+  }
+  .bg-peterriver-md {
+    background: #3498db;
+  }
+  .bg-amethyst-md {
+    background: #9b59b6;
+  }
+  .bg-wetasphalt-md {
+    background: #34495e;
+  }
+  .bg-greensea-md {
+    background: #16a085;
+  }
+  .bg-nephritis-md {
+    background: #27ae60;
+  }
+  .bg-belizehole-md {
+    background: #2980b9;
+  }
+  .bg-wisteria-md {
+    background: #8e44ad;
+  }
+  .bg-midnightblue-md {
+    background: #2c3e50;
+  }
+  .bg-sunflower-md {
+    background: #f1c40f;
+  }
+  .bg-carrot-md {
+    background: #e67e22;
+  }
+  .bg-alizarin-md {
+    background: #e74c3c;
+  }
+  .bg-clouds-md {
+    background: #ecf0f1;
+  }
+  .bg-concrete-md {
+    background: #95a5a6;
+  }
+  .bg-orange-md {
+    background: #f39c12;
+  }
+  .bg-pumpkin-md {
+    background: #d35400;
+  }
+  .bg-pomegranate-md {
+    background: #c0392b;
+  }
+  .bg-silver-md {
+    background: #bdc3c7;
+  }
+  .bg-asbestos-md {
+    background: #7f8c8d;
+  }
+  .bg-white-md {
+    background: #fff;
+  }
+  .bg-black-md {
+    background: #000;
+  }
+  .text-turquoise-md {
+    color: #1abc9c;
+  }
+  .text-emerland-md {
+    color: #2ecc71;
+  }
+  .text-peterriver-md {
+    color: #3498db;
+  }
+  .text-amethyst-md {
+    color: #9b59b6;
+  }
+  .text-wetasphalt-md {
+    color: #34495e;
+  }
+  .text-greensea-md {
+    color: #16a085;
+  }
+  .text-nephritis-md {
+    color: #27ae60;
+  }
+  .text-belizehole-md {
+    color: #2980b9;
+  }
+  .text-wisteria-md {
+    color: #8e44ad;
+  }
+  .text-midnightblue-md {
+    color: #2c3e50;
+  }
+  .text-sunflower-md {
+    color: #f1c40f;
+  }
+  .text-carrot-md {
+    color: #e67e22;
+  }
+  .text-alizarin-md {
+    color: #e74c3c;
+  }
+  .text-clouds-md {
+    color: #ecf0f1;
+  }
+  .text-concrete-md {
+    color: #95a5a6;
+  }
+  .text-orange-md {
+    color: #f39c12;
+  }
+  .text-pumpkin-md {
+    color: #d35400;
+  }
+  .text-pomegranate-md {
+    color: #c0392b;
+  }
+  .text-silver-md {
+    color: #bdc3c7;
+  }
+  .text-asbestos-md {
+    color: #7f8c8d;
+  }
+  .text-white-md {
+    color: #fff;
+  }
+  .text-black-md {
+    color: #000;
+  }
+  .bg-000-md {
+    background: #000;
+  }
+  .bg-111-md {
+    background: #111;
+  }
+  .bg-222-md {
+    background: #222;
+  }
+  .bg-333-md {
+    background: #333;
+  }
+  .bg-444-md {
+    background: #444;
+  }
+  .bg-555-md {
+    background: #555;
+  }
+  .bg-666-md {
+    background: #666;
+  }
+  .bg-777-md {
+    background: #777;
+  }
+  .bg-888-md {
+    background: #888;
+  }
+  .bg-999-md {
+    background: #999;
+  }
+  .bg-aaa-md {
+    background: #aaa;
+  }
+  .bg-bbb-md {
+    background: #bbb;
+  }
+  .bg-ccc-md {
+    background: #ccc;
+  }
+  .bg-ddd-md {
+    background: #ddd;
+  }
+  .bg-eee-md {
+    background: #eee;
+  }
+  .bg-fff-md {
+    background: #fff;
+  }
+  .text-000-md {
+    color: #000;
+  }
+  .text-111-md {
+    color: #111;
+  }
+  .text-222-md {
+    color: #222;
+  }
+  .text-333-md {
+    color: #333;
+  }
+  .text-444-md {
+    color: #444;
+  }
+  .text-555-md {
+    color: #555;
+  }
+  .text-666-md {
+    color: #666;
+  }
+  .text-777-md {
+    color: #777;
+  }
+  .text-888-md {
+    color: #888;
+  }
+  .text-999-md {
+    color: #999;
+  }
+  .text-aaa-md {
+    color: #aaa;
+  }
+  .text-bbb-md {
+    color: #bbb;
+  }
+  .text-ccc-md {
+    color: #ccc;
+  }
+  .text-ddd-md {
+    color: #ddd;
+  }
+  .text-eee-md {
+    color: #eee;
+  }
+  .text-fff-md {
+    color: #fff;
+  }
+  .Bg-turquoise-md {
+    background: #1abc9c !important;
+  }
+  .Bg-emerland-md {
+    background: #2ecc71 !important;
+  }
+  .Bg-peterriver-md {
+    background: #3498db !important;
+  }
+  .Bg-amethyst-md {
+    background: #9b59b6 !important;
+  }
+  .Bg-wetasphalt-md {
+    background: #34495e !important;
+  }
+  .Bg-greensea-md {
+    background: #16a085 !important;
+  }
+  .Bg-nephritis-md {
+    background: #27ae60 !important;
+  }
+  .Bg-belizehole-md {
+    background: #2980b9 !important;
+  }
+  .Bg-wisteria-md {
+    background: #8e44ad !important;
+  }
+  .Bg-midnightblue-md {
+    background: #2c3e50 !important;
+  }
+  .Bg-sunflower-md {
+    background: #f1c40f !important;
+  }
+  .Bg-carrot-md {
+    background: #e67e22 !important;
+  }
+  .Bg-alizarin-md {
+    background: #e74c3c !important;
+  }
+  .Bg-clouds-md {
+    background: #ecf0f1 !important;
+  }
+  .Bg-concrete-md {
+    background: #95a5a6 !important;
+  }
+  .Bg-orange-md {
+    background: #f39c12 !important;
+  }
+  .Bg-pumpkin-md {
+    background: #d35400 !important;
+  }
+  .Bg-pomegranate-md {
+    background: #c0392b !important;
+  }
+  .Bg-silver-md {
+    background: #bdc3c7 !important;
+  }
+  .Bg-asbestos-md {
+    background: #7f8c8d !important;
+  }
+  .Bg-white-md {
+    background: #fff !important;
+  }
+  .Bg-black-md {
+    background: #000 !important;
+  }
+  .Text-turquoise-md {
+    color: #1abc9c !important;
+  }
+  .Text-emerland-md {
+    color: #2ecc71 !important;
+  }
+  .Text-peterriver-md {
+    color: #3498db !important;
+  }
+  .Text-amethyst-md {
+    color: #9b59b6 !important;
+  }
+  .Text-wetasphalt-md {
+    color: #34495e !important;
+  }
+  .Text-greensea-md {
+    color: #16a085 !important;
+  }
+  .Text-nephritis-md {
+    color: #27ae60 !important;
+  }
+  .Text-belizehole-md {
+    color: #2980b9 !important;
+  }
+  .Text-wisteria-md {
+    color: #8e44ad !important;
+  }
+  .Text-midnightblue-md {
+    color: #2c3e50 !important;
+  }
+  .Text-sunflower-md {
+    color: #f1c40f !important;
+  }
+  .Text-carrot-md {
+    color: #e67e22 !important;
+  }
+  .Text-alizarin-md {
+    color: #e74c3c !important;
+  }
+  .Text-clouds-md {
+    color: #ecf0f1 !important;
+  }
+  .Text-concrete-md {
+    color: #95a5a6 !important;
+  }
+  .Text-orange-md {
+    color: #f39c12 !important;
+  }
+  .Text-pumpkin-md {
+    color: #d35400 !important;
+  }
+  .Text-pomegranate-md {
+    color: #c0392b !important;
+  }
+  .Text-silver-md {
+    color: #bdc3c7 !important;
+  }
+  .Text-asbestos-md {
+    color: #7f8c8d !important;
+  }
+  .Text-white-md {
+    color: #fff !important;
+  }
+  .Text-black-md {
+    color: #000 !important;
+  }
+  .Bg-000-md {
+    background: #000 !important;
+  }
+  .Bg-111-md {
+    background: #111 !important;
+  }
+  .Bg-222-md {
+    background: #222 !important;
+  }
+  .Bg-333-md {
+    background: #333 !important;
+  }
+  .Bg-444-md {
+    background: #444 !important;
+  }
+  .Bg-555-md {
+    background: #555 !important;
+  }
+  .Bg-666-md {
+    background: #666 !important;
+  }
+  .Bg-777-md {
+    background: #777 !important;
+  }
+  .Bg-888-md {
+    background: #888 !important;
+  }
+  .Bg-999-md {
+    background: #999 !important;
+  }
+  .Bg-aaa-md {
+    background: #aaa !important;
+  }
+  .Bg-bbb-md {
+    background: #bbb !important;
+  }
+  .Bg-ccc-md {
+    background: #ccc !important;
+  }
+  .Bg-ddd-md {
+    background: #ddd !important;
+  }
+  .Bg-eee-md {
+    background: #eee !important;
+  }
+  .Bg-fff-md {
+    background: #fff !important;
+  }
+  .Text-000-md {
+    color: #000 !important;
+  }
+  .Text-111-md {
+    color: #111 !important;
+  }
+  .Text-222-md {
+    color: #222 !important;
+  }
+  .Text-333-md {
+    color: #333 !important;
+  }
+  .Text-444-md {
+    color: #444 !important;
+  }
+  .Text-555-md {
+    color: #555 !important;
+  }
+  .Text-666-md {
+    color: #666 !important;
+  }
+  .Text-777-md {
+    color: #777 !important;
+  }
+  .Text-888-md {
+    color: #888 !important;
+  }
+  .Text-999-md {
+    color: #999 !important;
+  }
+  .Text-aaa-md {
+    color: #aaa !important;
+  }
+  .Text-bbb-md {
+    color: #bbb !important;
+  }
+  .Text-ccc-md {
+    color: #ccc !important;
+  }
+  .Text-ddd-md {
+    color: #ddd !important;
+  }
+  .Text-eee-md {
+    color: #eee !important;
+  }
+  .Text-fff-md {
+    color: #fff !important;
+  }
+}
+/* -lg */
+@media (min-width: 1200px) {
+  .bg-turquoise-lg {
+    background: #1abc9c;
+  }
+  .bg-emerland-lg {
+    background: #2ecc71;
+  }
+  .bg-peterriver-lg {
+    background: #3498db;
+  }
+  .bg-amethyst-lg {
+    background: #9b59b6;
+  }
+  .bg-wetasphalt-lg {
+    background: #34495e;
+  }
+  .bg-greensea-lg {
+    background: #16a085;
+  }
+  .bg-nephritis-lg {
+    background: #27ae60;
+  }
+  .bg-belizehole-lg {
+    background: #2980b9;
+  }
+  .bg-wisteria-lg {
+    background: #8e44ad;
+  }
+  .bg-midnightblue-lg {
+    background: #2c3e50;
+  }
+  .bg-sunflower-lg {
+    background: #f1c40f;
+  }
+  .bg-carrot-lg {
+    background: #e67e22;
+  }
+  .bg-alizarin-lg {
+    background: #e74c3c;
+  }
+  .bg-clouds-lg {
+    background: #ecf0f1;
+  }
+  .bg-concrete-lg {
+    background: #95a5a6;
+  }
+  .bg-orange-lg {
+    background: #f39c12;
+  }
+  .bg-pumpkin-lg {
+    background: #d35400;
+  }
+  .bg-pomegranate-lg {
+    background: #c0392b;
+  }
+  .bg-silver-lg {
+    background: #bdc3c7;
+  }
+  .bg-asbestos-lg {
+    background: #7f8c8d;
+  }
+  .bg-white-lg {
+    background: #fff;
+  }
+  .bg-black-lg {
+    background: #000;
+  }
+  .text-turquoise-lg {
+    color: #1abc9c;
+  }
+  .text-emerland-lg {
+    color: #2ecc71;
+  }
+  .text-peterriver-lg {
+    color: #3498db;
+  }
+  .text-amethyst-lg {
+    color: #9b59b6;
+  }
+  .text-wetasphalt-lg {
+    color: #34495e;
+  }
+  .text-greensea-lg {
+    color: #16a085;
+  }
+  .text-nephritis-lg {
+    color: #27ae60;
+  }
+  .text-belizehole-lg {
+    color: #2980b9;
+  }
+  .text-wisteria-lg {
+    color: #8e44ad;
+  }
+  .text-midnightblue-lg {
+    color: #2c3e50;
+  }
+  .text-sunflower-lg {
+    color: #f1c40f;
+  }
+  .text-carrot-lg {
+    color: #e67e22;
+  }
+  .text-alizarin-lg {
+    color: #e74c3c;
+  }
+  .text-clouds-lg {
+    color: #ecf0f1;
+  }
+  .text-concrete-lg {
+    color: #95a5a6;
+  }
+  .text-orange-lg {
+    color: #f39c12;
+  }
+  .text-pumpkin-lg {
+    color: #d35400;
+  }
+  .text-pomegranate-lg {
+    color: #c0392b;
+  }
+  .text-silver-lg {
+    color: #bdc3c7;
+  }
+  .text-asbestos-lg {
+    color: #7f8c8d;
+  }
+  .text-white-lg {
+    color: #fff;
+  }
+  .text-black-lg {
+    color: #000;
+  }
+  .bg-000-lg {
+    background: #000;
+  }
+  .bg-111-lg {
+    background: #111;
+  }
+  .bg-222-lg {
+    background: #222;
+  }
+  .bg-333-lg {
+    background: #333;
+  }
+  .bg-444-lg {
+    background: #444;
+  }
+  .bg-555-lg {
+    background: #555;
+  }
+  .bg-666-lg {
+    background: #666;
+  }
+  .bg-777-lg {
+    background: #777;
+  }
+  .bg-888-lg {
+    background: #888;
+  }
+  .bg-999-lg {
+    background: #999;
+  }
+  .bg-aaa-lg {
+    background: #aaa;
+  }
+  .bg-bbb-lg {
+    background: #bbb;
+  }
+  .bg-ccc-lg {
+    background: #ccc;
+  }
+  .bg-ddd-lg {
+    background: #ddd;
+  }
+  .bg-eee-lg {
+    background: #eee;
+  }
+  .bg-fff-lg {
+    background: #fff;
+  }
+  .text-000-lg {
+    color: #000;
+  }
+  .text-111-lg {
+    color: #111;
+  }
+  .text-222-lg {
+    color: #222;
+  }
+  .text-333-lg {
+    color: #333;
+  }
+  .text-444-lg {
+    color: #444;
+  }
+  .text-555-lg {
+    color: #555;
+  }
+  .text-666-lg {
+    color: #666;
+  }
+  .text-777-lg {
+    color: #777;
+  }
+  .text-888-lg {
+    color: #888;
+  }
+  .text-999-lg {
+    color: #999;
+  }
+  .text-aaa-lg {
+    color: #aaa;
+  }
+  .text-bbb-lg {
+    color: #bbb;
+  }
+  .text-ccc-lg {
+    color: #ccc;
+  }
+  .text-ddd-lg {
+    color: #ddd;
+  }
+  .text-eee-lg {
+    color: #eee;
+  }
+  .text-fff-lg {
+    color: #fff;
+  }
+  .Bg-turquoise-lg {
+    background: #1abc9c !important;
+  }
+  .Bg-emerland-lg {
+    background: #2ecc71 !important;
+  }
+  .Bg-peterriver-lg {
+    background: #3498db !important;
+  }
+  .Bg-amethyst-lg {
+    background: #9b59b6 !important;
+  }
+  .Bg-wetasphalt-lg {
+    background: #34495e !important;
+  }
+  .Bg-greensea-lg {
+    background: #16a085 !important;
+  }
+  .Bg-nephritis-lg {
+    background: #27ae60 !important;
+  }
+  .Bg-belizehole-lg {
+    background: #2980b9 !important;
+  }
+  .Bg-wisteria-lg {
+    background: #8e44ad !important;
+  }
+  .Bg-midnightblue-lg {
+    background: #2c3e50 !important;
+  }
+  .Bg-sunflower-lg {
+    background: #f1c40f !important;
+  }
+  .Bg-carrot-lg {
+    background: #e67e22 !important;
+  }
+  .Bg-alizarin-lg {
+    background: #e74c3c !important;
+  }
+  .Bg-clouds-lg {
+    background: #ecf0f1 !important;
+  }
+  .Bg-concrete-lg {
+    background: #95a5a6 !important;
+  }
+  .Bg-orange-lg {
+    background: #f39c12 !important;
+  }
+  .Bg-pumpkin-lg {
+    background: #d35400 !important;
+  }
+  .Bg-pomegranate-lg {
+    background: #c0392b !important;
+  }
+  .Bg-silver-lg {
+    background: #bdc3c7 !important;
+  }
+  .Bg-asbestos-lg {
+    background: #7f8c8d !important;
+  }
+  .Bg-white-lg {
+    background: #fff !important;
+  }
+  .Bg-black-lg {
+    background: #000 !important;
+  }
+  .Text-turquoise-lg {
+    color: #1abc9c !important;
+  }
+  .Text-emerland-lg {
+    color: #2ecc71 !important;
+  }
+  .Text-peterriver-lg {
+    color: #3498db !important;
+  }
+  .Text-amethyst-lg {
+    color: #9b59b6 !important;
+  }
+  .Text-wetasphalt-lg {
+    color: #34495e !important;
+  }
+  .Text-greensea-lg {
+    color: #16a085 !important;
+  }
+  .Text-nephritis-lg {
+    color: #27ae60 !important;
+  }
+  .Text-belizehole-lg {
+    color: #2980b9 !important;
+  }
+  .Text-wisteria-lg {
+    color: #8e44ad !important;
+  }
+  .Text-midnightblue-lg {
+    color: #2c3e50 !important;
+  }
+  .Text-sunflower-lg {
+    color: #f1c40f !important;
+  }
+  .Text-carrot-lg {
+    color: #e67e22 !important;
+  }
+  .Text-alizarin-lg {
+    color: #e74c3c !important;
+  }
+  .Text-clouds-lg {
+    color: #ecf0f1 !important;
+  }
+  .Text-concrete-lg {
+    color: #95a5a6 !important;
+  }
+  .Text-orange-lg {
+    color: #f39c12 !important;
+  }
+  .Text-pumpkin-lg {
+    color: #d35400 !important;
+  }
+  .Text-pomegranate-lg {
+    color: #c0392b !important;
+  }
+  .Text-silver-lg {
+    color: #bdc3c7 !important;
+  }
+  .Text-asbestos-lg {
+    color: #7f8c8d !important;
+  }
+  .Text-white-lg {
+    color: #fff !important;
+  }
+  .Text-black-lg {
+    color: #000 !important;
+  }
+  .Bg-000-lg {
+    background: #000 !important;
+  }
+  .Bg-111-lg {
+    background: #111 !important;
+  }
+  .Bg-222-lg {
+    background: #222 !important;
+  }
+  .Bg-333-lg {
+    background: #333 !important;
+  }
+  .Bg-444-lg {
+    background: #444 !important;
+  }
+  .Bg-555-lg {
+    background: #555 !important;
+  }
+  .Bg-666-lg {
+    background: #666 !important;
+  }
+  .Bg-777-lg {
+    background: #777 !important;
+  }
+  .Bg-888-lg {
+    background: #888 !important;
+  }
+  .Bg-999-lg {
+    background: #999 !important;
+  }
+  .Bg-aaa-lg {
+    background: #aaa !important;
+  }
+  .Bg-bbb-lg {
+    background: #bbb !important;
+  }
+  .Bg-ccc-lg {
+    background: #ccc !important;
+  }
+  .Bg-ddd-lg {
+    background: #ddd !important;
+  }
+  .Bg-eee-lg {
+    background: #eee !important;
+  }
+  .Bg-fff-lg {
+    background: #fff !important;
+  }
+  .Text-000-lg {
+    color: #000 !important;
+  }
+  .Text-111-lg {
+    color: #111 !important;
+  }
+  .Text-222-lg {
+    color: #222 !important;
+  }
+  .Text-333-lg {
+    color: #333 !important;
+  }
+  .Text-444-lg {
+    color: #444 !important;
+  }
+  .Text-555-lg {
+    color: #555 !important;
+  }
+  .Text-666-lg {
+    color: #666 !important;
+  }
+  .Text-777-lg {
+    color: #777 !important;
+  }
+  .Text-888-lg {
+    color: #888 !important;
+  }
+  .Text-999-lg {
+    color: #999 !important;
+  }
+  .Text-aaa-lg {
+    color: #aaa !important;
+  }
+  .Text-bbb-lg {
+    color: #bbb !important;
+  }
+  .Text-ccc-lg {
+    color: #ccc !important;
+  }
+  .Text-ddd-lg {
+    color: #ddd !important;
+  }
+  .Text-eee-lg {
+    color: #eee !important;
+  }
+  .Text-fff-lg {
+    color: #fff !important;
+  }
+}
