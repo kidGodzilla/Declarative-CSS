@@ -23,3 +23,9 @@ This differs slightly from Bootstrap in that breakpoints do not cascade upwards 
 ## Overriding using !important
 An `!important` version of each class exists to override previously applied styles. It is used by capitalizing the first letter of the classname.
 For example, the className `Display-none` would override `display-block`.
+
+### Todo
+
+- Create a class for handling background images
+- Consider options & strategies for reducing the size of this library
+- Improve consistency
